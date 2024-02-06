@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\POC_Api_Location_Timezone.props" />
+</Project>

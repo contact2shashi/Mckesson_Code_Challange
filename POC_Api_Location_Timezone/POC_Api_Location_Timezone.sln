@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Api_Location_Timezone", "POC_Api_Location_Timezone\POC_Api_Location_Timezone.csproj", "{E4DD37CA-43A8-4669-9E46-821E746DD71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DD37CA-43A8-4669-9E46-821E746DD71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DD37CA-43A8-4669-9E46-821E746DD71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DD37CA-43A8-4669-9E46-821E746DD71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DD37CA-43A8-4669-9E46-821E746DD71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F2DEC7-3CA1-4F66-97F0-63B978D1B63E}
+	EndGlobalSection
+EndGlobal
